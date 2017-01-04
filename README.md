@@ -9,3 +9,4 @@ list de series y animes
 # animes
 - Death note
 - Tokyo ghoul
+- [RE:Zero](http://www.crunchyroll.com/rezero-starting-life-in-another-world-)
