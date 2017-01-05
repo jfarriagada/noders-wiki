@@ -7,10 +7,11 @@ list de series y animes
 - Westworld
 - Orphan Black
 - Stranger Things
-- Designated Person
+- Designated Survivor
 - Mr Robot
 - Luther
 - Sherlock Homes
+- OA
 
 # animes
 - Death note
