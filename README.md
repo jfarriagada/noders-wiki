@@ -10,8 +10,10 @@ list de series y animes
 - Designated Survivor
 - Mr Robot
 - Luther
-- Sherlock Homes
+- Sherlock Holmes
 - OA
+- Game of Thrones
+- Vikings 
 
 # animes
 - Death note
