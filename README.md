@@ -11,7 +11,7 @@ list de series y animes
 - Mr Robot
 - Luther
 - Sherlock Holmes
-- OA
+- The OA
 - Game of Thrones
 - Vikings 
 
@@ -22,3 +22,10 @@ list de series y animes
 
 # humor
 - Monty Python
+- Rick & Morty
+- IT Crowd
+- Community
+
+# películas
+- WHOAMI
+- The Game
