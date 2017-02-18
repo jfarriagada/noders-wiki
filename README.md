@@ -1,6 +1,12 @@
 # noders-wiki
 list de series y animes
 
+# Desktop App 
+```
+npm install electron -g
+electron app.js
+```
+
 # series
 
 | Serie |  Ver online | Rate |
