@@ -23,6 +23,7 @@ electron app.js
 | The OA | [pelispedia](www.pelispedia.tv/serie/the-oa/) | |
 | Game of Thrones | | |
 | Vikings | [pelispedia](http://www.pelispedia.tv/serie/vikings/) | |
+| Erire Indiana http://watchcartoonsonline.eu/watch/eerie-indiana-episode-01-foreverware/
 
 # animes
 - Death note [animeflv](http://animeflv.me/Anime/9814/death-note-hd/)
